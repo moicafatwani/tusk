@@ -5,3 +5,7 @@ Welcome to  Monica's Kitchen
 kheer
 Pasta
 chicken
+
+
+beans
+pizza
