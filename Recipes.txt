@@ -6,5 +6,9 @@ kheer
 Pasta
 chicken
 
+beans
+pizza
+
 final copy
 thnk you
+
